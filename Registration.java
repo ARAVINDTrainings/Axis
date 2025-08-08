@@ -1,3 +1,3 @@
-This is a Registaration page
+This is a Registration page
 for Axis bank
 
