@@ -1,4 +1,4 @@
 #include stdio.h
-int a=10
+int a=20
   this is a java page
   
